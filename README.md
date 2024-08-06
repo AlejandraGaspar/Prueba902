@@ -1,2 +1,1 @@
-# Prueba902
-Aplicación web de prueba
+Agregar las indicaciones para el uso del repositorio privado
